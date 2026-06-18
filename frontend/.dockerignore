@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+build
+dist
+web-build
+.git
+.expo
+.expo-shared
+android
+ios
